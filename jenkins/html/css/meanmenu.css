@@ -96,8 +96,6 @@ a.meanmenu-reveal {
      padding: 1em 25%;
 }
 .mean-container .mean-nav ul li a:hover {
-     ` background: rgba(37, 37, 37, 0.1);
-
      background: rgba(255, 255, 255, 0.1);
 }
 .mean-container .mean-nav ul li a.mean-expand {
