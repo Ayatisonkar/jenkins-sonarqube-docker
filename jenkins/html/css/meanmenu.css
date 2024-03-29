@@ -113,7 +113,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-nav ul li a:hover {
-     ` background: #252525;
+     ` background: rgba(37,37,37.0.1);
      background: rgba(255, 255, 255, 0.1);
 }
 
