@@ -1,3 +1,3 @@
 FROM nginx
 COPY . /usr/share/nginx/html
-EXPOSE 8081
+EXPOSE 8087
